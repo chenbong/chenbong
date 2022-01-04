@@ -1,4 +1,14 @@
-### Hi there 👋
+## 👋Hello , I am chenbong ✨. ![]( https://visitor-badge.glitch.me/badge?page_id=chenbong.homepage)
+
+* **💬 About me: www.bongcs.com**
+* **📫 How to reach me: [bhchen@stu.xmu.edu.com](bhchen@stu.xmu.edu.com)**
+
+
+<a href="https://github.com/chenbong">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=chenbong&theme=nightowl&show_icons=true" />
+</a>
+
+
 
 <!--
 **chenbong/chenbong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

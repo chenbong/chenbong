@@ -1,6 +1,6 @@
 ## 👋Hello , I am chenbong ✨. ![]( https://visitor-badge.glitch.me/badge?page_id=chenbong.homepage)
 
-* **💬 About me: [https://chenbong.github.io](https://chenbong.github.io)**
+* **💬 About me: [chenbong.github.io](https://chenbong.github.io)**
 * **📫 How to reach me: [bhchen@stu.xmu.edu.com](bhchen@stu.xmu.edu.com)**
 
 
